@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vezdecod-10-mobile</string>
+    <string name="login_button_text">Войти</string>
+    <string name="edit_button_text">Сохранить</string>
+    <string name="main_edit_code">Сменить код</string>
+    <string name="main_set_code">Установить код</string>
+</resources>
